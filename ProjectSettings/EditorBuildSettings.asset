@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/StartStory.unity
+    guid: 33ee7152b5fcb7b428978d92d734e68a
+  - enabled: 1
+    path: Assets/Scenes/Stage1_Main.unity
+    guid: 52b8985a0d3409b4883d7e3d95549d0b
+  - enabled: 1
+    path: Assets/Scenes/Stage2_Gameinfo.unity
+    guid: f496bbc6f3897364fab4c894772007c2
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stage2_Main.unity
+    guid: 03765b8d63a253e43a062058072d2a23
+  - enabled: 1
+    path: Assets/Scenes/Stage1_Gameinfo.unity
+    guid: 4cfc7b6efa4e22e4e9a4b3bc7f569856
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: bad2d3efe277f324cb416570ac6aeae7
+  - enabled: 1
+    path: Assets/Scenes/Stage3_Main.unity
+    guid: 0ff6001ee7893ed49a1ddf734218eb6d
+  - enabled: 1
+    path: Assets/Scenes/Stage3_Intro.unity
+    guid: fb856dec86dd6db4b8678f5cbf07bc43
+  - enabled: 1
+    path: Assets/Scenes/Stage3_Gameinfo.unity
+    guid: 9912816a65cb3e549bf6bdea58ed479c
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 98fd10c3938421446b858f722f7ccb36
+  - enabled: 1
+    path: Assets/Scenes/Stage4_Main.unity
+    guid: 41d359b0f4a524c4eacd842945ed76e8
+  - enabled: 1
+    path: Assets/Scenes/Stage4_Gameinfo.unity
+    guid: b9482d6051b9dc24588287e627fd0045
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: 241e386c6c1e95b4cb86bbcfed6fb271
+  - enabled: 1
+    path: Assets/Scenes/Stage5_Main.unity
+    guid: 0c57e91158771a44d897671273ae3f21
+  - enabled: 1
+    path: Assets/Scenes/Stage5.unity
+    guid: a7efac3f0da73e7439004acd29203987
+  - enabled: 1
+    path: Assets/Scenes/Stage5_Gameinfo.unity
+    guid: 93d9814fe36073046bbf4043651ba907
+  - enabled: 1
+    path: Assets/Scenes/EndingStory.unity
+    guid: 0a4940fa89e391c438f70f44ab31be79
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 790a06d168650c84096388a2fb72a700
+  m_configObjects: {}
